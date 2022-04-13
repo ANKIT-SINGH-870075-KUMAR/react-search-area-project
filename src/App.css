@@ -1,0 +1,10 @@
+.form-control{
+  width: 20%;
+  line-height:1;
+  background-color: #edf1f58e;
+  border: 3px solid #060100;
+  border-top-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  border-top-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+}
